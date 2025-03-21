@@ -12,7 +12,7 @@
 ### Installation Steps
 1. Clone the repository:
    ```
-   git clone https://github.com/MGJillaniMughal/Chat-with-your-LegalPDF-AI.git
+   git clone https://github.com/starme208/Chat-with-your-LegalPDF-AI.git
    ```
 2. Navigate to the cloned directory.
 3. Install the required dependencies:
